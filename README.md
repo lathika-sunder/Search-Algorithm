@@ -108,9 +108,9 @@ else:
 
 ```
 ## Sample Input and Output
-![output1](./1.png.png)
-![output1](./2.png.png)
-![output1](./3.png.png)
+![output1](./1.png)
+![output1](./2.png)
+![output1](./3.png)
 
 
 
